@@ -18,7 +18,7 @@ setup(
     description="A file conversion framework for CSV/Excel/JSON data transformation.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/data-converter",
+    url="https://github.com/chibuzordev/FileConverter",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
