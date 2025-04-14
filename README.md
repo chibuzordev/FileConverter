@@ -19,8 +19,11 @@ pip install -r requirements.txt
 
 On Colab
 ```bash
-git clone https://github.com/chibuzordev/FileConverter
+!git clone https://github.com/chibuzordev/FileConverter
+
+import os
 os.chdir("FileConverter")
+
 !pip install -r requirements.txt
 ```
 
