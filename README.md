@@ -31,9 +31,9 @@ os.chdir("FileConverter")
 from converter import FileConverter
 
 converter = FileConverter(
-    csv_path="data.csv",
-    json_path="data.json",
-    xlsx_path="data.xlsx"
+    csv_path="path/to/data.csv",
+    json_path="path/to/data.json",
+    xlsx_path="path/to/data.xlsx"
 )
 
 converter.csv_to_json()
