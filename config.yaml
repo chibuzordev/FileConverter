@@ -1,0 +1,8 @@
+mode: structured
+fields:
+    new_col1: col1
+    new_col2:
+        column: col3
+    list_col:
+        column: col1
+        delimiter: ;
