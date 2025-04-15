@@ -12,12 +12,7 @@ A lightweight Python utility for converting between Excel (.xlsx), CSV, and stru
 ---
 
 ## 🧩 Installation on Collab
-```bash
 
-pip install -r requirements.txt
-```
-
-On Colab
 ```bash
 !git clone https://github.com/chibuzordev/FileConverter
 
